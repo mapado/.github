@@ -1,6 +1,7 @@
 # Mapado
 
-Un état d’esprit de “Hacker” pour mettre la technologie au service de l’humain
+Un état d’esprit de “Hacker” pour mettre la technologie au service de l’humain.
+
 La RFC 1983 définit le hacker comme…
 
 > Une personne qui se délecte de la compréhension approfondie du fonctionnement interne d’un système
