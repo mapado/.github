@@ -10,7 +10,7 @@
 
 #### Tache Clickup
 
-[#{clickupTicketId}](https://app.clickup.com/t/{clickupTicketId})
+[#clickupTicketId](https://app.clickup.com/t/clickupTicketId)
 
 #### Quel est le comportement actuel?
 
