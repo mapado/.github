@@ -3,10 +3,6 @@
 - [ ] Focus
 - [ ] Tâches annexes
 
-#### Requis
-- [ ] Tests behat
-- [ ] Tests unitaires
-
 #### Quel type de changement cette PR introduit ?
 - [ ] Bug fix
 - [ ] Feature
