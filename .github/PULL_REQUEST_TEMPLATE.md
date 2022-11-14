@@ -8,7 +8,7 @@
 - [ ] Feature
 - [ ] Proof of Concept
 
-#### Lien Clickup : 
+#### Tache Clickup
 
 #### Quel est le comportement actuel?
 
