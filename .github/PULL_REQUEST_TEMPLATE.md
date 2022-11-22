@@ -13,8 +13,8 @@
 
 Utiliser ou créer l'un des labels suivants pour spécifier le périmètre et le type de la Pull Request :
 
-- "scope - pompier", "scope - focus", "scope - tâche annexe"
-- "type - bugfix", "type - feature", "type - poc"
+- "scope: pompier", "scope: focus", "scope: tâche annexe"
+- "type: bugfix", "type: feature", "type: proof of concept"
 
 Voir https://github.com/mapado/ticketing/labels pour un exemple
 
