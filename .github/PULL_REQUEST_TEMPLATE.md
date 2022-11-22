@@ -1,21 +1,22 @@
-#### Perimètre
-- [ ] Pompier
-- [ ] Focus
-- [ ] Tâches annexes
+#### Nouveau comportement
 
-#### Quel type de changement cette PR introduit ?
-- [ ] Bug fix
-- [ ] Feature
-- [ ] Proof of Concept
+#### Comportement actuel
 
 #### Tache Clickup
 
 [#clickupTicketId](https://app.clickup.com/t/clickupTicketId)
 
-#### Quel est le comportement actuel?
-
-#### Quel est le nouveau comportement ?
-
 #### Dépendances (pull requests) :
 
-<!-- #### Autres informations -->
+<!--
+#### Contexte
+
+Utiliser ou créer l'un des labels suivants pour spécifier le périmètre et le type de la Pull Request :
+
+- "scope: pompier", "scope: focus", "scope: tâche annexe"
+- "type: bugfix", "type: feature", "type: poc"
+
+Voir https://github.com/mapado/ticketing/labels pour un exemple
+
+#### Autres informations
+-->
