@@ -1,15 +1,15 @@
-#### Nouveau comportement
+### Nouveau comportement
 
-#### Comportement actuel
+### Comportement actuel
 
-#### Tache Clickup
+### Tache Clickup
 
 [#clickupTicketId](https://app.clickup.com/t/clickupTicketId)
 
-#### Dépendances (pull requests) :
+### Dépendances (pull requests) :
 
 <!--
-#### Contexte
+### Contexte
 
 Utiliser ou créer l'un des labels suivants pour spécifier le périmètre et le type de la Pull Request :
 
@@ -18,5 +18,5 @@ Utiliser ou créer l'un des labels suivants pour spécifier le périmètre et le
 
 Voir https://github.com/mapado/ticketing/labels pour un exemple
 
-#### Autres informations
+### Autres informations
 -->
