@@ -6,6 +6,8 @@
 
 #clickupTicketId
 
+https://app.clickup.com/t/clickupTicketId
+
 ### Dépendances (pull requests) :
 
 <!--
