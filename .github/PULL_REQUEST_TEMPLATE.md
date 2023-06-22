@@ -4,9 +4,7 @@
 
 ### Tache Clickup
 
-#clickupTicketId
-
-https://app.clickup.com/t/clickupTicketId
+#clickupTicketId / https://app.clickup.com/t/clickupTicketId
 
 ### Dépendances (pull requests) :
 
